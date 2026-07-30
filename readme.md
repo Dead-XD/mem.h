@@ -2,7 +2,6 @@
 
 ![C++20](https://img.shields.io/badge/C%2B%2B-20-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 **mem.h** is a lightweight, modern C++20 header-only class designed to make interacting with external Windows processes safe, easy, and efficient. It uses RAII (Resource Acquisition Is Initialization) to guarantee that process handles are safely closed, preventing resource leaks.
 
@@ -151,6 +150,3 @@ processHandle = ::OpenProcess(PROCESS_VM_READ | PROCESS_VM_WRITE | PROCESS_VM_OP
 
 This repository is strictly for **educational purposes only**. The code provided is meant to demonstrate Windows API interaction, RAII concepts in C++, and memory management. Do not use this code to violate the Terms of Service of any software.
 
-```
-
-```
