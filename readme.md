@@ -4,8 +4,6 @@
 
 [![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#-requirements)
 [![Standard](https://img.shields.io/badge/C%2B%2B-17%20%2F%2020-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#-requirements)
-[![Header Only](https://img.shields.io/badge/Design-Header--Only-success?style=for-the-badge)](#-features)
-[![License](https://img.shields.io/badge/License-Educational-orange?style=for-the-badge)](#-responsible-use)
 
 *A lightweight, header-only C++ utility for locating Windows processes, retrieving module base addresses, and reading/writing process memory using the Win32 Toolhelp & Process APIs.*
 
